@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Notification"
+        android:id="@+id/notification"/>
+    <item android:title="Scheduling notifications"
+        android:id="@+id/scheduling_notification"/>
+    <item android:title="Lazy img"
+        android:id="@+id/lazyimg"/>
+    <item android:title="Call APi Đa Luồng"
+        android:id="@+id/da_luong"/>
+</menu>
